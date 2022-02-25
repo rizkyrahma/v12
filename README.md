@@ -34,12 +34,12 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). v12 is a bot whatsapp using a Baileys library.
+> Ramdani botz v12 adalah bot WhatsApp yg memakai base ori dari [Ramdani Official](https://github.com/Ramdaniofficial/blob/main/README.md). Ramdani botz v12 is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
+* Info Lebih Lanjut, Chat [owner-Ramdani botz](https://wa.me/6289512545999)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)

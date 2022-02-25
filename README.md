@@ -7,17 +7,17 @@
 <a href="#"><img title="RAMDANI BOTZ MULTI DEVICE" src="https://img.shields.io/badge/Ramdani Botz MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/RamdaniOfficial/Ramdani Botz-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ramdaniofficial"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RamdaniOfficial/v12"><img title="Recode" src="https://img.shields.io/badge/Recode-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramdaniofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramdani Official?color=red&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v12/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramdani Official/Ramdani Botz-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v12/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramdani Official/Ramdani Botz-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/v12/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramdani Official/Ramdani Botz-Md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Ramdaniofficial/v12/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramdani Official/v12?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ramdaniofficial/v12/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramdani Official/v12?color=red&style=flat-square"></a>
+<a href="https://github.com/Ramdaniofficial/v12/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramdani Official/v12?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Ramdaniofficial/v12"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/Ramdaniofficial/v12/"><img title="Size" src="https://img.shields.io/github/repo-size/Ramdani Official/Ramdani Botz-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamdani Official%2FRamdani Botz-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Ramdaniofficial/v12/"><img title="Size" src="https://img.shields.io/github/repo-size/Ramdani Official/v12?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamdani Official%2Fv12&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Ramdaniofficial/v12/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
@@ -34,7 +34,7 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Ramdani Botz-Md is a bot whatsapp using a Baileys library.
+> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). v12 is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
@@ -57,7 +57,7 @@
 ## For Windows/RDP
 ```bash
 git clone https://github.com/Ramdaniofficial/v12.git
-cd Ramdani Botz-Md
+cd v12
 npm install
 node main
 ```
@@ -67,13 +67,13 @@ termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg
 git clone https://github.com/Ramdaniofficial/v12.git
-cd Ramdani Botz-Md
+cd v12
 npm install
 node main
 ```
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/Ramdaniofficial/aRamdani Botz-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
+- Change ownerNumber on [this section](https://github.com/Ramdaniofficial/av12/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
 - Change botName on [this section](https://github.com/Ramdaniofficial/v12/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L3)
 - You can edit list and display menu or donate on [this section](https://github.com/Ramdaniofficial/v12/blob/main/help/ind.js)
 - You can add fiture on [this section](https://github.com/Ramdaniofficial/v12/tree/main/message)
@@ -107,10 +107,10 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 
 
 # Thanks to
-<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+<a href="https://github.com/Ramdaniofficial"><img src="https://github.com/Ramdaniofficial.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
-[Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
-Owner Hisoka-Morou | Constributor |
+[Ramdani Official](https://github.com/Ramdaniofficial)  | [Nurutomo](https://github.com/Nurutomo)
+Developer Ramdani bot v12 | Constributor |
 <a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
 [Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
 Constributor | For Help |
